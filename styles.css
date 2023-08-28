@@ -1,0 +1,19 @@
+h1 {
+    color: #6653b4;
+    font-size: 24px;
+    font-family: "Roboto"
+}
+
+h2 {
+    color: #524291;
+    font-size: 20px;
+}
+
+p {
+    color: #ebebeb;
+    font-family: "Roboto";
+}
+
+body {
+    background-color: #333;
+}
